@@ -1,5 +1,5 @@
 <p aling="center">
-    <a href="https://clojure.org/">
+    <a href="https://clojure.org/" target="_blank">
         <img src="https://user-images.githubusercontent.com/86434696/191378382-e70206c3-cd0f-485d-bf5c-a9d6231d7915.png" width="50"/>
     </a>
 </p>
